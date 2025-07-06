@@ -1,0 +1,148 @@
+
+
+#Bigger {font-size: 100em;}
+
+
+
+/*nav {float: top;
+		position: fixed;
+			text-decoration: none;
+				color: white;
+					background-color: transparent;
+						display:}
+						
+
+nav a:hover {font-display: italic;}
+nav a {text-decoration: none;
+		color: white;}
+		*/
+
+
+
+.move {
+	font-size: 14px;
+}
+	
+#Go {aside {float: right;}
+	aside {width: 800px;}
+}
+	
+
+ #hallo{
+  background-color: darkwhite;
+  width: 1465px;
+  border: 1px solid green;
+  padding: 15px;
+  margin: 2px;
+  display: inline-block;
+  border-radius: 10px;
+  /*div:hover {color: black;}*/
+  a {text-decoration: none;
+	color: darkwhite}
+	a:hover {/*text-decoration: italic;*/
+		color: grey;}
+  a:active {color: grey}
+  /*overflow-x: scroll;*/
+  overflow: auto;
+  
+  
+}
+
+
+
+
+#Box	
+	{button {border-radius: 10px;}
+	button:hover {background-color: darkgrey;}
+	button:active {background-color: lightblack;}
+	button {padding: 10px;}
+	button:hover {text-color: white;}
+	button {font-size: 15px;}
+	button {background-color: white;}
+	button {border: 1px solid green;}
+
+	a {text-decoration: none;
+		color: black;}
+		a:hover {color: white;}
+	a:active (color: white;}
+		
+	li {display: inline;}
+	
+
+	
+	
+}
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+#Go {aside {float:right;}
+
+#go2 
+	{display: inline-block;}
+
+/*#go2 
+	p {display: inline-block;}*/
+
+#movenav
+	{nav id= {overflow-x: bottom-scroll;}
+	nav {color: black;}
+
+#scroll		
+	{body {overflow-x: scroll;}}
+
+#wrapper { width: 80%;
+	       margin-left: auto;
+                   margin-right: auto;
+                   background-color: #EAEAEA; }
+header { background-color: #CCCCFF; }
+h1 { margin: 0; padding: 10px; }
+
+nav a {text-decoration: none;}
+nav { float: top; 
+         width: 90px;
+          padding: 10px;
+			text-decoration: none;
+				color: white;
+				/*max-height: 600px;*/
+					/*overflow-y:  scroll;*/
+					
+nav {background-color: #213448;}
+nav {position: fixed;}
+nav a {text-decoration: none;	}
+nav a {color: red;}
+nav a:hover  {color:/*#0099CC*/; text-decoration: underline;
+								}
+nav a:hover {color: black;} 							
+aside {float: right;
+		width: 200px;
+			}
+
+{overflow: auto;}
+
+main { /*margin-left: 100px;*/
+           padding: 10px;
+           background-color:  #FFFFFF; 
+			float: top;}
+footer { text-align: center;
+              font-style: italic;
+              background-color: #CCCCFF; }
+
+ a:link     {color:#000066;}
+ a:visited {color:#003366;}
+ a:focus   {color:#FF0000;}
+ a:hover  {color:#0099CC;}
+ a:active  {color:#FF0000;}
