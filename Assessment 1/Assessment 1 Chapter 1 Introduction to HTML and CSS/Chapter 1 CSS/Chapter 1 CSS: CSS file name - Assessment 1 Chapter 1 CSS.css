@@ -1,0 +1,21 @@
+/*by Daniel Ritzie A. Serrano CC Level 4 Web Programming*/
+
+
+ul {
+	list-style-type: none;
+}
+
+ol { color: black; }
+.text-wrapper {    color: black; }
+ol li::marker { list-style: bold;
+}
+    .bg-red:before {
+      background-color: red;
+    }
+
+
+
+nav a {text-decoration: none;}
+nav a:hover  {color:#0099CC; text-decoration: underline;}
+
+h4 a {margin-top: none;}
