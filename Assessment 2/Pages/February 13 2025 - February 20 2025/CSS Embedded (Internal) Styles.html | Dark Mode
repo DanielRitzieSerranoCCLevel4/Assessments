@@ -1,0 +1,76 @@
+<head>			
+<title>Web Programming Links<sup>&copy;</sup></title>		
+<meta charset="utf-8">
+
+<style>
+body { background-color: #000000;
+           color: #FFFFFF;
+}
+</style> 
+
+
+<header>
+<h1><blockquote><head><strong><mark>Welcome To My Website</mark></strong></head></blockquote></h1>
+</header>
+
+
+
+
+
+
+<body>
+Your go-to source for amazing content<br>
+
+<nav>
+<ul>
+<li><a href="file:///C:/Users/Daniel/OneDrive/Documents/FTSC/CC-Level%204%20Web%20Programming%20Sem%202/Week%201/Embedded%20Styles%20Example.html">Home</a>
+<li><a href="index.html">Services</a>
+<li><a href="index.html">About</a>
+<li><a href="https://yahoo.com">Contact</a>
+<li><a href="file:///C:/Users/Daniel/OneDrive/Documents/FTSC/CC-Level%204%20Web%20Programming%20Sem%202/Week%201/My%20Works.html">My Works</a></li>
+<li><a href="file:///C:/Users/Daniel/OneDrive/Documents/FTSC/CC-Level%204%20Web%20Programming%20Sem%202/Week%201/Chemical%20Formulas.html">Chemical Formula</a></li>
+<li><a href="file:///C:/Users/Daniel/OneDrive/Documents/FTSC/CC-Level%204%20Web%20Programming%20Sem%202/Week%201/Chemical%20Formulas%20-%20Copy.html">Chemical Formula Copy</a></li>
+<li><a href="file:///C:/Users/Daniel/OneDrive/Documents/FTSC/CC-Level%204%20Web%20Programming%20Sem%202/Week%201/Links%20and%20CSS.html">Light Mode</a></li>
+</nav>
+
+<main>
+<h2><strong>Home</strong></h2><br>
+
+Welcome to our homepage! We  Privide useful information and resources.
+
+<h2><strong>Our Services</strong></h2>
+
+We offer a wide range of services including web design, development, and consulting.
+
+<h2><strong>About Us</strong></h2>
+
+Learn more about our mission and the team behind the site.
+
+<h2><strong>Contact Us</h2></strong>
+
+Have any question? Get in touch with us through the contact form on this page.<br>
+<br>
+<footer>
+</head>
+<hr>
+&copy; 2025 My Website. All rights reserved.
+</footer>
+</main>
+</body>
+
+<body>
+<a href="http://webaim.org/resources/contrastchecker
+">Contrast Checker</a>
+<a href="http://snook.ca/technical/colour_contrast/colour.html
+">Colour Contrast</a>
+<a href="http://juicystudio.com/services/luminositycontrastratio.php
+">Luminosity Contrast Ratio</a>
+</body>
+<br>
+<br>
+
+<footer>
+<a href="file:///C:/Users/Daniel/OneDrive/Documents/FTSC/CC-Level%204%20Web%20Programming%20Sem%202/Week%201/Privacy%20Family.html">Privacy Policy</a> | <a href="index.html">Terms of Service</a>
+
+</hr>
+</hr>
