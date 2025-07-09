@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture 6 Table Activity</title>
+    </head>
+	<script>window.alert("Lecture 7 JS Function");</script>
+<html>
+<body>
+<h2>What Can JavaScript Do?</h2>
+<p id="demo">JavaScript can change HTML content.</p>
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+<script>window.alert("For Testing Purposes");</script>
+
+
+
+
+
+
+<h2>What Can JavaScript Do?</h2>
+<p id="DeMo">JavaScript can change the style of an HTML element.</p>
+<button type="button" onclick="document.getElementById('DeMo').style.fontSize='35px'">Click Me!</button>
+</body> </html> 
+
+
+
+<h2>JavaScript in Body</h2>
+
+<p id="demO"></p>
+
+<script>
+document.getElementById("demO").innerHTML = "My First JavaScript";
+</script>
+
+
+
+
+<h1>My First Web Page</h1>
+<p>My first paragraph.</p>
+<script>
+document.write(5 + 6);
+</script>
+<h3>For testing purposes, it is convenient to use document.write() </h3>
+
+
+
+
+<br><br><br>
+
+
+<h2>My First Web Page</h2>
+<p>My first paragraph.</p>
+<button type="button" onclick="document.write(5 + 6)">
+Try it
+</button>
+<h5>Using document.write() after an HTML document is loaded, will delete all existing HTML:
+<br>Upon clicking only 11 will be displayed
+</h5>
+
+
+
+<html>
+<body>
+<h1>My First Web Page</h1>
+<p>My first paragraph.</p>
+<script>window.alert(5 + 6);</script>
+</body>
+</html>
+<h5>Window keyword is optional; alert(5+6);</h5>
+
+
+
+
+<br>
+<h3>Semicolons separate JavaScript statements.
+<br>
+ All JavaScript identifiers are case sensitive.
+</h3>
+<p id="DEmo"></p>
+<script>
+let x, y, z;             // Declare 3 variables
+ x = 5;
+ y = 6;
+ z = x + y;    
+document.getElementById("DEmo").innerHTML = "The value of z is " + z + ".";  
+</script>
+
+
+
+<br><br>
+<h3>Using console.log() method</h3>
+<p>For debugging purposes, you can call the console.log() method in the browser to display data. 
+</p>
+
+
+<br><br>
+<h3>JavaScript Function Syntax</h3>
+<p>function name(parameter1, parameter2, parameter3) <br>
+{  // code to be executed}
+</p>
+
+
+<br><br>
+<h3>Function Invocation</h3>
+<p>The code inside the function will execute when "something" invokes (calls) the function:
+<br>function greet(name) {
+<br>  console.log(`Hello, ${name}!`);
+}
+<br>greet("John"); 
+</p>
+<script>function greet(name)
+{console.log('Hello, ${name}!');}
+
+greet("John");
+let result=greet
+concole.log();
+document.getElementById("demo").innerHTML = value;
+</script>
+<p id="Output Here">Output</p>
+<button type="button" onclick="document.getElementById("Output Here").greet">Click Me!</button>
+
+
+
+<script>
+function square(num) 
+{
+  return num * num;
+}
+let result = square(5);
+console.log(); 
+</script>
+
+
+
+
+<h1>JavaScript Functions</h1>
+<p>Call a function which performs a calculation and returns the result:</p>
+<p id="dEmo"></p>
+<script>
+function myFunction(p1, p2) {
+  return p1 * p2;
+}
+let result = myFunction(4, 3);     //calling functions
+document.getElementById("dEmo").innerHTML = result;
+</script>
+
+
+
+
+<h1>JavaScript Functions</h1>
+<p>Call a function which performs a calculation and returns the result:</p>
+<p id="&emo"></p>
+<script>
+function myFunction(°C) {
+  return °F = °C × (9/5) + 32;
+}
+let Result = myFunction(80);     //calling functions
+document.getElementById("&emo").innerHTML = Result;
+</script>
+
+
+
+<h4><h3><br>JavaScript Object</h3> 
+<strong>You can access object properties in two ways:
+<br>
+Objectname.propertyname;
+<br>
+Objectname[“propertyname”];</strong>
+</h4>
+
+<p id="deMoo"></p>
+<script>
+// Create an Object:
+const car = {type:"Fiat", model:"500", color:"white"};
+// Display Data from the Object:
+document.getElementById("deMoo").innerHTML ="The car type is " + car.type;
+</script>
+
+
+
+
+</body> </html>
+
+
+<footer>
+<hr>
+<a href="file:///C:/Users/Daniel/OneDrive/Documents/FTSC/CC-Level%204%20Web%20Programming%20Sem%202/Week%201/My%20Works.html">My Works</a>
+<br>
+&copy; 2025 My Website. All rights reserved.
+</hr>
+<hr>
+</footer>
